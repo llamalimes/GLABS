@@ -1,4 +1,4 @@
-package glab305_2;
+package org.jonlima.glab305_2;
 
 import java.sql.*;
 public class Insert_preparedSt_Example {

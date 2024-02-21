@@ -1,4 +1,4 @@
-package glab303_3_1;
+package org.jonlima.glab303_3_1;
 
 public class StringLowerExample{
     public static void main(String args[]){

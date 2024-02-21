@@ -1,4 +1,4 @@
-package glab303_3_1;
+package org.jonlima.glab303_3_1;
 
 public class IsEmptyExample{
     public static void main(String args[]){
@@ -6,4 +6,5 @@ public class IsEmptyExample{
         String s2="hello";
         System.out.println(s1.isEmpty()); // true
         System.out.println(s2.isEmpty()); // false
-    }}
+    }
+}
